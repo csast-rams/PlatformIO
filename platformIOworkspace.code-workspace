@@ -1,0 +1,84 @@
+{
+	"folders": [
+		{
+			"path": "HallEffect_BLE"
+		},
+		{
+			"name": "WatchBLEMidi",
+			"path": "WatchBLEMidi"
+		},
+		{
+			"name": "ESP-NOW_HallEffect",
+			"path": "ESP-NOW_HallEffect"
+		},
+		{
+			"name": "TIGFootpedal_ESP32C3_supermini",
+			"path": "TIGFootpedal_ESP32C3_supermini"
+		},
+		{
+			"name": "ESP32_DigitalPot",
+			"path": "ESP32_DigitalPot"
+		},
+		{
+			"name": "ESP-NOW_HallEffect_SENDER",
+			"path": "ESP_NOW_HALL/ESP-NOW_HallEffect_SENDER"
+		},
+		{
+			"name": "ESP-NOW_HallEffect_RECEIVER",
+			"path": "ESP_NOW_HALL/ESP-NOW_HallEffect_RECEIVER"
+		},
+		{
+			"name": "TEST_HALL",
+			"path": "TEST_HALL"
+		},
+		{
+			"name": "PWMTrig_Test",
+			"path": "PWMTrig_Test"
+		},
+		{
+			"name": "Test_AD8400_DigiPot",
+			"path": "Test_AD8400_DigiPot"
+		},
+		{
+			"name": "Arduino Hall Throttle Test",
+			"path": "Arduino Hall Throttle Test"
+		},
+		{
+			"name": "AVR_ESP_NRF240",
+			"path": "AVR_ESP_NRF240"
+		},
+		{
+			"name": "AVR_ESP_UART",
+			"path": "AVR_ESP_UART"
+		},
+		{
+			"name": "Test_R4_DAC",
+			"path": "Test_R4_DAC"
+		},
+		{
+			"name": "HackedMillerPedal",
+			"path": "HackedMillerPedal"
+		},
+		{
+			"name": "Arduino Giga R1 Test",
+			"path": "Arduino Giga R1 Test"
+		},
+		{
+			"name": "STM32_Test",
+			"path": "STM32_Test"
+		},
+		{
+			"name": "I2C_DAC TIG Pedal",
+			"path": "I2C_DAC TIG Pedal"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"*.cps": "javascript",
+			"*.txt": "plaintext",
+			"*.h": "c",
+			"*.md": "markdown",
+			"cmath": "cpp"
+		}
+	}
+}
